@@ -104,7 +104,7 @@ MXN – Mexican Peso
 ZAR – South African Rand
 
 For a complete list of supported currencies, refer to the
-[Frankfurter API Documentation] (https://api.frankfurter.dev/)
+[Frankfurter API Documentation](https://api.frankfurter.dev/)
  or
-[Supported Currency Codes] (https://www.exchangerate-api.com/docs/supported-currencies)
+[Supported Currency Codes](https://www.exchangerate-api.com/docs/supported-currencies)
 .
