@@ -39,7 +39,7 @@ It fetches live exchange rates and performs the conversion.
 python currency_converter.py
 ```
 
-Follow the prompts:
+2. Follow the prompts:
 
 Enter the source currency code (e.g., USD)
 
@@ -47,7 +47,7 @@ Enter the target currency code (e.g., INR)
 
 Enter the amount to convert
 
-The script will display the conversion rate and the converted amount.
+The script will then display the conversion rate and the converted amount.
 
 Dependencies
 
@@ -55,23 +55,23 @@ Python 3.x
 
 requests library
 
-Install requests if not already installed:
+Install the requests library if not already installed:
 
 pip install requests
 
 Example
 Welcome to the Currency Converter
 
-From currency (e.g., USD): usd
-To currency (e.g., INR): inr
-Enter the amount to be converted: 10
+From currency (e.g., USD): usd  
+To currency (e.g., INR): inr  
+Enter the amount to be converted: 10  
 
-1 USD = 85.4300 INR
+1 USD = 85.4300 INR  
 10 USD = 854.30 INR
 
 Supported Currency Codes
 
-The Frankfurter API supports a wide range of currencies. Some common examples:
+The Frankfurter API supports a wide range of currencies. Some common examples include:
 
 USD – United States Dollar
 
@@ -97,64 +97,8 @@ MXN – Mexican Peso
 
 ZAR – South African Rand
 
-For a complete list of supported currencies, refer to the Frankfurter API documentation
-or Supported Currency Codes
-.
-
-Follow the prompts:
-
-Enter the source currency code (e.g., USD)
-
-Enter the target currency code (e.g., INR)
-
-Enter the amount to convert
-
-The script will display:
-
-The current conversion rate
-
-The converted amount
-
-📦 Dependencies
-
-Python 3.x
-
-requests library
-
-Install the required dependency if not already installed:
-
-pip install requests
-
-🧩 Example
-Welcome to the Currency Converter
-
-From currency (e.g., USD): usd
-To currency (e.g., INR): inr
-Enter the amount to be converted: 10
-
-1 USD = 85.4300 INR
-10 USD = 854.30 INR
-
-🌍 Supported Currency Codes
-
-The Frankfurter API supports a wide range of currencies. Some common examples include:
-
-Code Currency Name
-USD United States Dollar
-EUR Euro
-INR Indian Rupee
-GBP British Pound Sterling
-JPY Japanese Yen
-AUD Australian Dollar
-CAD Canadian Dollar
-CHF Swiss Franc
-CNY Chinese Yuan
-BRL Brazilian Real
-MXN Mexican Peso
-ZAR South African Rand
-
-For a complete list of supported currencies, visit the
+For a complete list of supported currencies, refer to the
 Frankfurter API Documentation
-or
+ or
 Supported Currency Codes
 .
