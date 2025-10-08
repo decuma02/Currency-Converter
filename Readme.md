@@ -41,25 +41,30 @@ python currency_converter.py
 
 2. Follow the prompts:
 
-Enter the source currency code (e.g., USD)
+-Enter the source currency code (e.g., USD)
 
-Enter the target currency code (e.g., INR)
+-Enter the target currency code (e.g., INR)
 
-Enter the amount to convert
+-Enter the amount to convert
 
-The script will then display the conversion rate and the converted amount.
+-The script will then display the conversion rate and the converted amount.
 
-Dependencies
+##Dependencies
 
+```bash
 Python 3.x
 
 requests library
+```
 
 Install the requests library if not already installed:
 
+```bash
 pip install requests
+```
 
-Example
+##Example
+```bash
 Welcome to the Currency Converter
 
 From currency (e.g., USD): usd  
@@ -68,8 +73,9 @@ Enter the amount to be converted: 10
 
 1 USD = 85.4300 INR  
 10 USD = 854.30 INR
+```
 
-Supported Currency Codes
+##Supported Currency Codes
 
 The Frankfurter API supports a wide range of currencies. Some common examples include:
 
